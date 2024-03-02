@@ -1,4 +1,4 @@
-# 👋 Aymen Graoui - Senior Frontend Developer
+# 👋 Aymen Graoui - Senior Frontend Developer ( React )
 
 ## 🚀 Profile
 
