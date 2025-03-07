@@ -1,12 +1,17 @@
-# 👋 Aymen Graoui - Senior Frontend Developer ( React )
+# 👋 Aymen Graoui - Software Engineer
 
 ## 🚀 Profile
 
-Lead Web Developer at Alphorm.com, specializing in Front-End Development with a strong focus on React. Passionate about the art and essence of web development, combining technical expertise with a natural flair for creativity. Recognized as a collaborative team player and a dependable leader when required.
+Senior Software Engineer at Bell, specializing in Front-End Development with a strong focus on React. Passionate about the art and essence of web development, combining technical expertise with a natural flair for creativity. Recognized as a collaborative team player and a dependable leader when required.
 
 ## 💼 Employment
 
-### 🌟 Senior Frontend Developer - Alphorm (Jun 2020 - Present)
+### 🚀 Senior Software Engineer - Bell (May 2024 - Present)
+- 🌟 Leading the architecture and maintenance of a large-scale projects on Google Cloud Platform (GCP).
+- 🤝 Implementing CI/CD pipelines, infrastructure automation, and cloud optimizations.
+- 🌈 Designed and developed the tools, enabling real-time collaboration, automated decision-making, and historical data tracking.
+
+### 🌟 Senior Frontend Developer - Alphorm (Jun 2020 - May 2024)
 - 🚀 Lead the successful creation and launch of alphorm.com, a dynamic and engaging website.
 - 🤝 Demonstrated exceptional leadership skills by assembling, nurturing, and guiding a talented team throughout the entire process.
 - 🌈 Built a collaborative and high-performing environment, achieving remarkable outcomes.
